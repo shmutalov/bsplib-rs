@@ -1,2 +1,2 @@
-# bspsrc-rs
-BSPSource is a map decompiler for Source engine maps, written in Rust.
+# bsplib-rs
+BSPLib is a map parser for Source engine maps, written in Rust.

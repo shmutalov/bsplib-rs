@@ -1,5 +1,5 @@
 [package]
-name = "bspsrc"
+name = "bsplib"
 version = "0.1.0"
 authors = ["shmutalov <shmutalov@gmail.com>"]
 
